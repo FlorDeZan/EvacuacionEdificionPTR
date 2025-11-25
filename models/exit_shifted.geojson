@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "exit",
+"features": [
+{ "type": "Feature", "properties": { "floor": 0, "from_id": "C0", "width": 2.0 }, "geometry": { "type": "LineString", "coordinates": [ [ 104.948925328507855, 8.976573365245017 ], [ 104.9564348321219, 7.058891649902048 ] ] } },
+{ "type": "Feature", "properties": { "floor": 0, , "from_id": "C0", "width": 2.0 }, "geometry": { "type": "LineString", "coordinates": [ [ 100.353039026036498, 1.960528354133152 ], [ 102.191554173217753, 1.967727847162558 ] ] } },
+{ "type": "Feature", "properties": { "floor": 0, "from_id": "C0", "width": null }, "geometry": { "type": "LineString", "coordinates": [ [ 5.207431461966194, 10.276993599060456 ], [ 5.207431461966194, 9.281962381748462 ] ] } }
+]
+}
